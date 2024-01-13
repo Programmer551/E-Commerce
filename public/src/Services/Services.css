@@ -1,0 +1,20 @@
+.service {
+  text-align: center;
+  color: white;
+  border: 2px solid cyan;
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+.services {
+  color: white;
+  font-style: italic;
+  background: slategray;
+}
+.ser {
+  font-size: 1.5rem;
+  margin: 20px 0px;
+  text-align: center;
+}
+.small_ser {
+  font-size: 1, 2rem;
+}

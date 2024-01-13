@@ -1,0 +1,14 @@
+.items {
+  height: 400px;
+  /* overflow-y: auto; */
+}
+.collection {
+  flex-wrap: wrap;
+  margin-top: 200px;
+}
+.card-img-top {
+  height: 270px;
+}
+.card {
+  flex-wrap: wrap;
+}
